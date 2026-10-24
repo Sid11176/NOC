@@ -1,0 +1,29 @@
+Session complete
+38/42
+
+90% correct · best streak 17 · average 20 s per question.
+
+That pace is a good target for exam-style subnetting.
+
+Question type		Correct
+Prefix for N hosts	3/4
+Broadcast address	4/5
+CIDR to mask		4/5
+Usable host count	4/5
+Wildcard mask		4/4
+Mask to CIDR		4/4
+Network address		4/4
+Last usable host	4/4
+Next subnet			3/3
+First usable host	4/4
+
+Questions to review
+
+What is the smallest prefix length that fits at least 227 hosts
+You: /25 · Answer: /24
+How many usable hosts are in a /17 subnet?
+You: 126 · Answer: 32,766
+What is the broadcast address of 10.246.248.68/14
+You: 10.244.0.0 · Answer: 10.247.255.255
+What is the dotted-decimal subnet mask for /18?
+You: 255.255.128.0 · Answer: 255.255.192.0
